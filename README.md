@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @SkyeAsh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning IT and cybersecurity awareness
-- 💞️ I’m looking to collaborate on nothing ATM
-- 📫 How to reach me @skyeash_ on most social media
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm obsessed with space and little robots
+- 💻 I'm an IT and cybersecurity student based in Australia.
+- 🌱 Currently learning more about cybersecurity, programming, networking, and digital forensics.
+- 🔐 Interested in ethical hacking, security architecture, and understanding how technology works.
+- 🛠️ Building my skills through hands-on projects, experiments, and plenty of trial and error.
+- 🚀 Outside of technology, I'm fascinated by space, astronomy, robotics, and video games.
 
 <!---
 SkyeAsh/SkyeAsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
