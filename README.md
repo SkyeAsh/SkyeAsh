@@ -1,16 +1,17 @@
 
 ```text
-   ┌────────────────────────────────────────────────────┐
+   ┌───────────────────────────────────────┐
   │             |              
   │   SKYEASH.SYSTEM   |  
   │   ────────────────────────   |     
   │             |               
-  │[✓] PROFILE INITIALISED |           > WELCOME TO MY PORTFOLIO_
-  │[✓] CONNECTION ACTIVE    | 
+  │[✓] PROFILE INITIALISED |          
+  │[✓] CONNECTION ACTIVE    |   > ACCESS GRANTED_
   │[>] EXPLORING CYBERSPACE  |
   │             |              
-   └────────────────────────────────────────────────────┘
-                      ✦       +       ·
+   └───────────────────────────────────────┘
+       
+                      
 ```
 # Hello, I'm SkyeAsh 💻
 
