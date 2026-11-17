@@ -9,9 +9,7 @@
 │[✓] CONNECTION ACTIVE    |   > ACCESS GRANTED_
 │[>] EXPLORING CYBERSPACE  |
 │             |              
- └───────────────────────────────────────┘
-       
-                      
+ └───────────────────────────────────────┘                     
 ```
 # Hello, I'm SkyeAsh 💻
 
