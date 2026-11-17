@@ -18,11 +18,13 @@
 
 ```text
 > whoami
-Certificate IV in Cyber Security student @ TAFE Queensland
-Certificate III in Information Technology graduate
+Cyber Security Cert IV student
+TAFE Queensland
+IT Certificate III graduate
 
 > status
-Learning. Building. Breaking things (ethically). Figuring out why.
+SYSTEM ONLINE
+CURRENT MODE: EXPLORATION
 ```
 
 ## 01 // About Me
