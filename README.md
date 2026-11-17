@@ -1,4 +1,17 @@
 
+```text
+   ┌────────────────────────────────────────────────────┐
+  │             |              
+  │   SKYEASH.SYSTEM   |  
+  │   ────────────────────────   |     
+  │             |               
+  │[✓] PROFILE INITIALISED |                        > WELCOME TO MY PORTFOLIO_
+  │[✓] CONNECTION ACTIVE    | 
+  │[>] EXPLORING CYBERSPACE  |
+  │             |              
+   └────────────────────────────────────────────────────┘
+
+```
 # Hello, I'm SkyeAsh\_ 👾
 
 **IT & Cybersecurity Student | Australia**
