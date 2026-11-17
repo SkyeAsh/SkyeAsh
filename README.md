@@ -5,14 +5,14 @@
   │   SKYEASH.SYSTEM   |  
   │   ────────────────────────   |     
   │             |               
-  │[✓] PROFILE INITIALISED |                        > WELCOME TO MY PORTFOLIO_
+  │[✓] PROFILE INITIALISED |           > WELCOME TO MY PORTFOLIO_
   │[✓] CONNECTION ACTIVE    | 
   │[>] EXPLORING CYBERSPACE  |
   │             |              
    └────────────────────────────────────────────────────┘
-
+                      ✦       +       ·
 ```
-# Hello, I'm SkyeAsh\_ 👾
+# Hello, I'm SkyeAsh 💻
 
 **IT & Cybersecurity Student | Australia**
 
