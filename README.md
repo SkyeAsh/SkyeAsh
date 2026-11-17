@@ -1,15 +1,15 @@
 
 ```text
-   ┌───────────────────────────────────────┐
-  │             |              
-  │   SKYEASH.SYSTEM   |  
-  │   ────────────────────────   |     
-  │             |               
-  │[✓] PROFILE INITIALISED |          
-  │[✓] CONNECTION ACTIVE    |   > ACCESS GRANTED_
-  │[>] EXPLORING CYBERSPACE  |
-  │             |              
-   └───────────────────────────────────────┘
+ ┌───────────────────────────────────────┐
+│             |              
+│   SKYEASH.SYSTEM   |  
+│   ────────────────────────   |     
+│             |               
+│[✓] PROFILE INITIALISED |          
+│[✓] CONNECTION ACTIVE    |   > ACCESS GRANTED_
+│[>] EXPLORING CYBERSPACE  |
+│             |              
+ └───────────────────────────────────────┘
        
                       
 ```
